@@ -1,0 +1,45 @@
+* {
+    margin: 10px;
+}
+#wrap {
+    margin: 0 auto;
+    padding: 10px;
+    width: 1000px;
+    border: 2px solid rgb(3, 68, 3);
+}
+header {
+    background: rgb(3, 221, 3);
+    padding: 10px;
+}
+nav {
+    width: 60%;
+    height: 150px;
+    background: #eee;
+}
+main {
+    height: 150px;
+    background: rgb(6, 194, 6);
+    padding: 10px;
+}
+section {
+    width: 45.8%;
+    height: 300px;
+    background: rgb(5, 141, 5);
+    padding: 10px;
+    float: left;
+    margin-top: 0;
+}
+article {
+    width: 45.8%;
+    height: 300px;
+    background: rgb(5, 141, 5);
+    padding: 10px;
+    float: right;
+    margin-top: 0;
+}
+footer {
+    clear: both;
+    height: 100px;
+    background: rgb(4, 88, 4);
+    padding: 10px;
+}
